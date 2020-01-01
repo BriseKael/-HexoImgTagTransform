@@ -1,10 +1,14 @@
 {
   "name": "hexo-img-tag-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For hexo, force to transform markdown img tag to hexo img tag when hexo generating. This npm package is very convenient for me to insert images into hexo blogs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BriseKael/HexoImgTagTransform"
   },
   "author": "Brise Kael",
   "license": "MIT"
